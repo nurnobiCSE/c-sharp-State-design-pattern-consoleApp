@@ -1,0 +1,15 @@
+C:\Storage\dotnet\stateCar\bin\Debug\net7.0\stateCar.exe
+C:\Storage\dotnet\stateCar\bin\Debug\net7.0\stateCar.deps.json
+C:\Storage\dotnet\stateCar\bin\Debug\net7.0\stateCar.runtimeconfig.json
+C:\Storage\dotnet\stateCar\bin\Debug\net7.0\stateCar.dll
+C:\Storage\dotnet\stateCar\bin\Debug\net7.0\stateCar.pdb
+C:\Storage\dotnet\stateCar\obj\Debug\net7.0\stateCar.csproj.AssemblyReference.cache
+C:\Storage\dotnet\stateCar\obj\Debug\net7.0\stateCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Storage\dotnet\stateCar\obj\Debug\net7.0\stateCar.AssemblyInfoInputs.cache
+C:\Storage\dotnet\stateCar\obj\Debug\net7.0\stateCar.AssemblyInfo.cs
+C:\Storage\dotnet\stateCar\obj\Debug\net7.0\stateCar.csproj.CoreCompileInputs.cache
+C:\Storage\dotnet\stateCar\obj\Debug\net7.0\stateCar.dll
+C:\Storage\dotnet\stateCar\obj\Debug\net7.0\refint\stateCar.dll
+C:\Storage\dotnet\stateCar\obj\Debug\net7.0\stateCar.pdb
+C:\Storage\dotnet\stateCar\obj\Debug\net7.0\stateCar.genruntimeconfig.cache
+C:\Storage\dotnet\stateCar\obj\Debug\net7.0\ref\stateCar.dll
